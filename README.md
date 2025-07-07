@@ -5,32 +5,42 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on **a Pet Adoption Web App using React and Firebase**
-- 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
-- 💡 Interested in **UI/UX Design, Web Animations, and Frontend Frameworks**
-- 💬 Ask me about **React, HTML, CSS, JavaScript, Firebase**
-- 📫 Reach me at: (jasmeetk.saini16@gmail.com)
-- ⚡ Fun fact: *I design first, code later *
+- 🔭 Currently working on a **Pet Adoption Web App using React and Firebase**
+- 🌱 Learning **MERN Stack (MongoDB, Express, React, Node.js)**
+- 💡 Passionate about **UI/UX Design & Frontend Development**
+- 💬 Ask me about **React, Firebase, HTML, CSS, JavaScript**
+- 📫 Reach me at: jasmeetk.saini16@gmail.com
+- ⚡ Fun fact: *I love building animated interfaces 🌌*
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/jasmeet-kaur-30bb56303/)" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jasmeet-kaur-30bb56303/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="https://www.instagram.com/https://www.instagram.com/jasmeet_saini16/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
   </a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools I Use:
+### 🧰 Languages and Tools I Use
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,bootstrap,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats and Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jasmeet1606&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=jasmeet1606&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmeet1606&layout=compact&theme=radical" />
+</p>

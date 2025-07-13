@@ -38,7 +38,7 @@
 ### 📈 GitHub Stats and Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasmeet1606&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=jasmeet1606&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=jasmeet1606&theme=radical&hide_border=true" />
   <br/>

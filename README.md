@@ -30,7 +30,7 @@
 ### 🧰 Languages and Tools I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,bootstrap,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,bootstrap,git,github,vscode" />
 </p>
 
 ---
